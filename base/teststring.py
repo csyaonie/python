@@ -19,5 +19,12 @@ print('%.2f' % 3.1415926)
 a = 'abc'
 print(a.replace('a', 'A'))
 print(a)
+
+x = 'abc'
+y = 123
+print(isinstance(x, str))
+print(isinstance(y, str))
+
+
 #小结
 #str是不可变对象

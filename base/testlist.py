@@ -28,3 +28,11 @@ print(min(digits))
 print(max(digits))
 for d in digits[2:6]:
     print(d)
+
+#切片
+print(digits[:3])
+print(digits[1:3])
+
+#列表生产式
+res=[x * x for x in range(1, 11)]
+print(res)
