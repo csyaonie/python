@@ -1,4 +1,3 @@
-# -*-coding:utf-8-*-
 # sdfdfff
 arr = ['caaa', 'bbb', 'ccc', 'ddd']
 # 非纯函数

@@ -1,4 +1,3 @@
-# -*-coding:utf-8-*-
 filename = 'C:\Users\Administrator\PycharmProjects\pythondemo\pyfile.txt'
 filename2 = 'C:\Users\Administrator\PycharmProjects\pythondemo\pyfile2.txt'
 with open(filename) as fileobj:

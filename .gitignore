@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# idea
+.idea/
+.gradle/
+build/
+*.iml
+*.ipr
+*.iws
