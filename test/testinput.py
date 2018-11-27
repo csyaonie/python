@@ -1,3 +1,3 @@
 #-*-coding:utf-8-*-
-msg=raw_input("back...")
+msg=input("back...")
 print(msg)

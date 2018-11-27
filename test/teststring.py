@@ -1,6 +1,6 @@
-name="ddd"
-str2= "   hello python   "
-print("hello world "+name)
+name = "ddd"
+str2 = "   hello python   "
+print("hello world " + name)
 print(str2.title())
 print(str2.upper())
 print(str2.lower())

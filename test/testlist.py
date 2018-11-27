@@ -1,10 +1,10 @@
-#-*-coding:utf-8-*-
-#sdfdfff
+# -*-coding:utf-8-*-
+# sdfdfff
 arr = ['caaa', 'bbb', 'ccc', 'ddd']
-#非纯函数
+# 非纯函数
 arr.sort()
 print(arr)
-#纯函数
+# 纯函数
 print(sorted(arr))
 
 print(arr)
@@ -12,17 +12,17 @@ print(arr[0])
 print(arr[-1])
 arr.reverse()
 arr.append("sss")
-arr.insert(0,'000')
+arr.insert(0, '000')
 del arr[1]
 arr.pop()
 arr.pop(-1)
 print(arr)
-arrlen=len(arr)
+arrlen = len(arr)
 print(arrlen)
 print("begin print arr")
 for a in arr:
     print(a)
-print(range(1,5))
+print(range(1, 5))
 
 digits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
 print(min(digits))

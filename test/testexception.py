@@ -1,6 +1,5 @@
-#-*-coding:utf-8-*-
+# -*-coding:utf-8-*-
 try:
-    print(5/0)
+    print(5 / 0)
 except ZeroDivisionError:
     print('are you kidding me')
-
