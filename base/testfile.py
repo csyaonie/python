@@ -1,5 +1,7 @@
-filename = 'C:\Users\Administrator\PycharmProjects\pythondemo\pyfile.txt'
-filename2 = 'C:\Users\Administrator\PycharmProjects\pythondemo\pyfile2.txt'
+# -*- coding: utf-8 -*-
+# Created by zyf on 2018/11/27.
+filename = 'C:\\Users\\Administrator\\PycharmProjects\\pythondemo\\base\\pyfile.txt'
+filename2 = "C:\\Users\\Administrator\\PycharmProjects\\pythondemo\\base\\pyfile2.txt"
 with open(filename) as fileobj:
     content = fileobj.read()
     print(content)
